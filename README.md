@@ -4,4 +4,5 @@ and with final example you will be able to coding triggers.I used MSSQL. All que
 
 So this is the diagram of the database that we work on it
 <hr/>
+
 ![relations](https://user-images.githubusercontent.com/12279132/32322294-12a6dd72-bfd5-11e7-82ea-8853a7649128.png)
